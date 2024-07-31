@@ -1,2 +1,4 @@
 nginx
-portainer
+portainer/portainer
+osixia/phpldapadmin
+osixia/openldap
