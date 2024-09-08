@@ -1,12 +1,2 @@
-nginx:1.27.1
-portainer/portainer:1.25.0
-osixia/phpldapadmin:stable
-osixia/openldap:stable
-gitlab/gitlab-ce:17.2.4-ce.0
-sonatype/nexus3:3.71.0
-plexinc/pms-docker:1.40.5.8921-836b34c27
-mysql:8.4.2
-elasticsearch:8.15.0
-redis:6.2.14
-nextcloud:29.0.5
-ubuntu:24.04
+portainer/portainer:1.24.2
+portainer/portainer-ce:2.0.1
