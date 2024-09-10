@@ -1,3 +1,1 @@
-portainer/agent:2.21.0
-gitlab/gitlab-ce:17.3.1-ce.0
-redis:7.4.0-alpine3.20
+portainer/portainer-ce:2.21.1
