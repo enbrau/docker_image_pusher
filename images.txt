@@ -1,2 +1,1 @@
-p3terx/aria2-pro:202209060423
-p3terx/ariang:latest
+plexinc/pms-docker:1.41.0.8992-8463ad060
