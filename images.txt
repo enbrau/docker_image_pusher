@@ -1,1 +1,3 @@
-plexinc/pms-docker:1.41.0.8992-8463ad060
+eipwork/kuboard:v3.5.2.6
+eipwork/kuboard-agent:v3
+eipwork/etcd-host:3.4.16-1
