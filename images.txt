@@ -1,3 +1,2 @@
-eipwork/kuboard:v3.5.2.6
-eipwork/kuboard-agent:v3
-eipwork/etcd-host:3.4.16-1
+gitlab-ce:17.3.4-ce.0
+plexinc/pms-docker:1.41.0.8994-f2c27da23
