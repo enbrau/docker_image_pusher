@@ -1,3 +1,2 @@
-gitlab/gitlab-ce:17.3.4-ce.0
-plexinc/pms-docker:1.41.0.8994-f2c27da23
-nginx:1.27.1
+plexinc/pms-docker:1.41.1.9057-af5eaea7a
+gitlab/gitlab-ce:17.5.1-ce.0
