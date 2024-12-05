@@ -1,2 +1,1 @@
-plexinc/pms-docker:1.41.1.9057-af5eaea7a
-gitlab/gitlab-ce:17.5.1-ce.0
+ghcr.io/coder/coder:latest
