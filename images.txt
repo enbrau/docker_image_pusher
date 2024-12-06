@@ -1,1 +1,1 @@
-ghcr.io/coder/coder:latest
+postgres:13.18
