@@ -1,1 +1,1 @@
-codercom/code-server:4.95.3-39
+chromadb/chroma:0.6.1
