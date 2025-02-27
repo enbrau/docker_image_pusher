@@ -1,1 +1,2 @@
-minio/minio:RELEASE.2024-12-18T13-15-44Z.fips
+sonarqube:9.6-community
+sonarqube:9.9.8-community
