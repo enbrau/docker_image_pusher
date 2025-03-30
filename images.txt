@@ -1,2 +1,1 @@
-sonarqube:9.6-community
-sonarqube:9.9.8-community
+gitlab/gitlab-ce:17.10.1-ce.0
