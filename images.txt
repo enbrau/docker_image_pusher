@@ -1,4 +1,1 @@
-kkangert/kspider:latest
-kkangert/kspider-ui:latest
-selenium/standalone-chrome:4.8.1
-gitlab/gitlab-ce:18.2.1-ce.0
+wbsu2003/spider-flow:v1
