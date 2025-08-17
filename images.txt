@@ -1,1 +1,2 @@
-wbsu2003/spider-flow:v1
+elastic/elasticsearch:9.1.2
+elastic/elasticsearch:8.19.2
