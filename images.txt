@@ -1,2 +1,5 @@
-gitlab/gitlab-ce:18.2.6-ce.0
-
+gitlab/gitlab-ce:18.4.1-ce.0
+sonatype/nexus3:3.84.1-alpine
+plexinc/pms-docker:1.42.2.10156-f737b826c
+portainer/portainer-ce:2.33.2
+minio/minio:RELEASE.2025-09-07T16-13-09Z
