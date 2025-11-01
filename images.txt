@@ -1,3 +1,1 @@
-portainer/portainer-ce:2.33.3-alpine
-portainer/agent:2.33.3-alpine
-nginx:alpine3.22
+portainer/agent:2.33.3
