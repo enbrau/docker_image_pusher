@@ -1,2 +1,2 @@
-ubuntu:25.10
-ubuntu:24.10
+centos:centos7
+centos:centos7.9.2009
