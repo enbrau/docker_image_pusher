@@ -1,2 +1,1 @@
-centos:centos7
-centos:centos7.9.2009
+easysoft/zentao:21.7.6
