@@ -1,1 +1,1 @@
-easysoft/zentao:21.7.6
+hoppscotch/hoppscotch:2025.10.0
