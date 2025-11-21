@@ -1,5 +1,1 @@
-mysql:8.4.7
-apache/kafka:4.1.1
-redis:8.4.0
-sonatype/nexus3:3.86.2
-gitlab/gitlab-ce:18.4.4-ce.0
+nextcloud:32.0.1
