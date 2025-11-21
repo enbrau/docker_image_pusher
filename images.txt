@@ -1,1 +1,1 @@
-nextcloud:31.0.10
+gitlab/gitlab-ce:18.6.0-ce.0
