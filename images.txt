@@ -1,1 +1,8 @@
-mysql:9.5.0
+gitlab/gitlab-ce:18.6.1-ce.0
+sonatype/nexus3:3.86.2
+plexinc/pms-docker:1.42.2.10156-f737b826c
+sonarqube:25.11.0.114957-community
+elasticsearch:9.2.1
+kibana:9.2.1
+logstash:9.2.1
+neo4j:5.26.17-community
