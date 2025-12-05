@@ -1,1 +1,1 @@
-corentinth/it-tools:2024.10.22-7ca5933
+ramuses/photopea:2.2
