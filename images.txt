@@ -1,4 +1,1 @@
-portainer/portainer-ce:2.33.5-linux-amd64-alpine
-portainer/portainer-ce:2.33.5-linux-amd64
-portainer/agent:2.33.5-linux-amd64-alpine
-portainer/agent:2.33.5-linux-amd64
+rustfs/rustfs:1.0.0-alpha.72
