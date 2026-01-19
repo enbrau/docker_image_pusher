@@ -1,1 +1,1 @@
-ubuntu:26.04
+sonarqube:2025.6.1-developer
