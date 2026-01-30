@@ -1,1 +1,4 @@
-postgres:17.7
+gitlab/gitlab-ce:18.7.2-ce.0
+gitlab/gitlab-ce:18.8.2-ce.0
+ubuntu:26.04
+redis:8.6-rc1-alpine3.23
