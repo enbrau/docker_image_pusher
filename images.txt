@@ -1,3 +1,1 @@
-nextcloud:32.0.5-apache
-sonarqube:26.2.0.119303-community
-
+neo4j:ubi10
