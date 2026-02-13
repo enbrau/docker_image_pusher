@@ -1,4 +1,6 @@
-gitlab/gitlab-ce:18.7.2-ce.0
-gitlab/gitlab-ce:18.8.2-ce.0
-ubuntu:26.04
-redis:8.6-rc1-alpine3.23
+nextcloud:32.0.5-apache
+sonarqube:26.2.0.119303-community
+elastic/elasticsearch:9.2.5
+elastic/elasticsearch:8.19.11
+gitlab/gitlab-ce:18.7.4-ce.0
+neo4j:ubi10
