@@ -1,1 +1,4 @@
-sonarqube:26.2.0.119303-community
+elastic/elasticsearch:9.2.5
+elastic/elasticsearch:8.19.11
+gitlab/gitlab-ce:18.7.4-ce.0
+neo4j:ubi10
